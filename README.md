@@ -60,7 +60,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
            Importance 
   Accuracy:well crafted prompt can lead to more accurate and relevant responsies
   Efficiency:users save time and efforts by usingeffective prompts
-  Accessibility:understanding prompt engineering can make AI tools more accessible to non experts
+  Accessibility:understanding prompt engineering can make AI tools more accessible to non experts.
   
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
    Vague Prompt "Tell me about domestic animals"
